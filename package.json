@@ -14,7 +14,6 @@
     "node-red-contrib-cognitive-services": "^0.5.5",
     "node-red-dashboard": "^2.21.0",
     "node-red-contrib-aedes": "^0.3.6",
-    "node-red-contrib-ftp-server": "^0.4.1",
     "node-red-node-swagger": "^0.1.9"
   },
   "devDependencies": {},
